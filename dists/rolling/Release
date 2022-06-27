@@ -1,20 +1,20 @@
 Origin: AbyssianOS
-Label: AbyssianOS Default Repository
+Label: AbyssianOS Default Repo
 Suite: stable
 Codename: rolling
-Date: Mon, 27 Jun 2022 18:28:29 UTC
+Date: Mon, 27 Jun 2022 18:46:51 UTC
 Architectures: amd64
 Components: main
-Description: The Default repository for the AbyssianOS Linux Gaming Distribution.
+Description: AbyssianOS Default Repository
 MD5Sum:
  63f57918957d8e738fcefb2632ef4c97 1752 main/binary-amd64/Packages
  e92c94712d378c6a6ee8d28c35ce609b 889 main/binary-amd64/Packages.gz
- 20c66ba74753be5ed7b85c627a587384 190 main/binary-amd64/Release
+ 01ce5902dcb46479558ff83355b4154f 145 main/binary-amd64/Release
 SHA1:
  22772a15434133431e41bbf15f11874d2738a08a 1752 main/binary-amd64/Packages
  75a6a700012f1e2a85a3ff0c65bce8d6965b5610 889 main/binary-amd64/Packages.gz
- ab8b4a4ca669681d3297e47b82080140a273f460 190 main/binary-amd64/Release
+ 8bafbb81251345566bdf22ce0f75a8dce3938df3 145 main/binary-amd64/Release
 SHA256:
  727d8ba4bfc541cd6313808d6a9b04f45d43db92502684202854296926cf4fb0 1752 main/binary-amd64/Packages
  89668ffb6d2338fe005ec96e2c32f64cd72223f43c1924aab28557b5d1d302d3 889 main/binary-amd64/Packages.gz
- 42689d62e9173c8a8d28bee395a91246138abc9645dab05a141f4bdd5fb3801b 190 main/binary-amd64/Release
+ d8db06d6bc0f547d232a247eb9db677cd18dcc3a5aadf4f969e36069d6175ea0 145 main/binary-amd64/Release
