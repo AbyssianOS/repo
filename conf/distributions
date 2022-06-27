@@ -1,7 +1,0 @@
-Origin: default-repo
-Label: AbyssianOS Default Repo
-Suite: stable
-Codename: rolling
-Architectures: amd64
-Components: main
-Description: AbyssianOS Default Apt Repository.

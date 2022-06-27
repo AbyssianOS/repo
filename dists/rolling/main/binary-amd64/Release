@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: default-repo
-Label: AbyssianOS Default Repo
-Architecture: amd64
-Description: AbyssianOS Default Apt Repository.
