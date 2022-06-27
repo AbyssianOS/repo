@@ -10,7 +10,7 @@ Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.33), libca
 Recommends: libavcodec59 | libavcodec-extra59 | libavcodec58 | libavcodec-extra58 | libavcodec57 | libavcodec-extra57 | libavcodec56 | libavcodec-extra56 | libavcodec55 | libavcodec-extra55 | libavcodec54 | libavcodec-extra54 | libavcodec53 | libavcodec-extra53
 Suggests: fonts-stix | otf-stix, fonts-lmodern, libgssapi-krb5-2 | libkrb53, libcanberra0, pulseaudio
 Breaks: xul-ext-torbutton
-Filename: pool/main/f/firefox_101.0.1-1_amd64.deb
+Filename: pool/main/firefox_101.0.1-1_amd64.deb
 Size: 58841200
 MD5sum: 5a123748005c9ece7009ff357c74a173
 SHA1: 3eb02367ef1dcf791b2d440e7d49f606ff7af392
