@@ -1,0 +1,7 @@
+Origin: AbyssianOS
+Label: AbyssianOS Default Repository
+Suite: stable
+Codename: rolling
+Architectures: amd64
+Components: main
+Description: The Default repository for the AbyssianOS Linux Gaming Distribution.

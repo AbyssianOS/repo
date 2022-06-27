@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: AbyssianOS
+Label: AbyssianOS Default Repository
+Architecture: amd64
+Description: The Default repository for the AbyssianOS Linux Gaming Distribution.
