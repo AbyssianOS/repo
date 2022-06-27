@@ -1,7 +1,7 @@
 Architectures: amd64
 Codename: rolling
 Components: main
-Date: Mon, 27 Jun 2022 19:50:18 +0000
+Date: Mon, 27 Jun 2022 19:57:15 +0000
 Label: AbyssianOS Default Repository
 Origin: https://github.com/AbyssianOS/abyssian
 Suite: rolling
@@ -9,7 +9,7 @@ MD5Sum:
  e12b9dc52275604ed3f7edd2313961db             3859 Contents-amd64
  8aad3ca1e718b8fb68b71003197747ab              862 Contents-amd64.bz2
  7122b9362b8de4ee996cb34f1729b1e8              772 Contents-amd64.gz
- afe260e811800f14325d887a92b76542              193 Release
+ ef05f631411e4a01e5e2c40ad6712d74              193 Release
  37c1790c0e0b5d41b409a7588bc9192f             1881 main/binary-amd64/Packages
  c688c7054492e304f2e579e676f786ce             1058 main/binary-amd64/Packages.bz2
  ba287e389a9f368ff8893582a7e869e0              995 main/binary-amd64/Packages.gz
@@ -17,7 +17,7 @@ SHA1:
  d8c1ffb4655cebb5f25fed92236b25567206f985             3859 Contents-amd64
  6898dac008ff518e8f3d310500edf16131d2fa76              862 Contents-amd64.bz2
  af90660962fdd7e86b6f8dbbb0e9dabf3cb28350              772 Contents-amd64.gz
- 296d2840c6de8388fcbd5ac494c0f37f3ee742b4              193 Release
+ 21f9829bc6292014d8d0ca0a648475a6ebb1385f              193 Release
  8c4281069298adb3befb92b5461bdc70fde20ca2             1881 main/binary-amd64/Packages
  21c036dbcd38d22ad483ae6f7395bf519143d05d             1058 main/binary-amd64/Packages.bz2
  e150fa7a177461f1264950500b9d46c3de1e14f3              995 main/binary-amd64/Packages.gz
@@ -25,7 +25,7 @@ SHA256:
  968692cc6e16ea6c1bae1bfd2f53d06569bcb2c547e28928a4e9c477b7139fa5             3859 Contents-amd64
  e2113938ecaa795c951e220ef872f22a433d739ff107d91dcaf144c04fb5c77f              862 Contents-amd64.bz2
  4289bbacb84f84b9e2ccbc3e3a87d5c3ab61a319db59b21f69fd1700811f9761              772 Contents-amd64.gz
- f3389f47677f832e648cad0efeb2741ed61d5c84de4a1a7402a845601676c200              193 Release
+ 1b463bebfc8208bee6d9ba1518f083715e959b4018111a342a1477ee437611db              193 Release
  daa19112973b83033422945ef2588a2cb77246b8f539bc28fe3d7e77b0f66ff7             1881 main/binary-amd64/Packages
  fef7f30e7d82bc7769d9ccb42e82fb444b193f5e392b194dbdfa1c66dcb3c8f0             1058 main/binary-amd64/Packages.bz2
  daadb1dd696bc801dc913a009911c783cdbff3b31fec827a528bd1ec7029905a              995 main/binary-amd64/Packages.gz
@@ -33,7 +33,7 @@ SHA512:
  e7ea9f2f5b9b82bf181330773ceacab8d3da175928df6eb0820bf79fda2df28d6131e7306a3fecb87213288b32f1aab36103af9222385a6e2851337aac098e7a             3859 Contents-amd64
  f7881a2bdf43e10c6c13fd6ddfb42e5ee18e908a942318bb30fad458c4bc8293252ff1fc929a413a5fdf154162f30d75620884a44bd0dd5a36ae2ea55517f1f9              862 Contents-amd64.bz2
  ab3081c431160ef7a47d1b2db2f1adcd162f32f8d637454ca151b1e31f3cc3a48de4088b45bc2c0c92512644d67cc03fc7c5b07eb64b0800e31eac80e3fd590e              772 Contents-amd64.gz
- 36e5b0a74897630a78d0448d54f2a3e34761c1be5bbd921de73ffed5eee6acaeca53f1e80f91ced8115ffc29abc1bb2e1a57c226e4f83083823fa1fe53b73c8b              193 Release
+ 878b18a4ca5b268e591ffbcc3bba1294fbbfa234c92739e2a5f670686a644f2a03c16c9a4e6bbeb1ac52c08820af49fce5f90af0ad99d5b4cb5a93ca5073e281              193 Release
  1fc7aea70543d76d9b21dde521660cc89ca90ca020f657a84f5f6227c3edd23585f94f4ec71e6f4327f257f8c5cb373bcd63f1b9922d01b87895586486b91d46             1881 main/binary-amd64/Packages
  27f53e22475efd7301601544c6c588fed0f0a13646bfc4d1cbbb9f817d5d51912a5b87dcd0efb4cff8e2f73eb84ba0cd0a380ee5002e147c3554255aac174c82             1058 main/binary-amd64/Packages.bz2
  5d13eb6877a2d3451fd2f8fad2e5c996019f8128cfc0bcc1039d4ea5f9de6de8007ef3abe506a8fc517412e3e540bacf7323fa74ed2af831cb0c84cb7735697b              995 main/binary-amd64/Packages.gz
