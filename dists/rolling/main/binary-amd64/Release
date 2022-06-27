@@ -1,6 +1,5 @@
-Archive: stable
-Component: main
-Origin: AbyssianOS
-Label: AbyssianOS Default Repo
+Origin: . rolling
+Label: . rolling
+Archive: rolling
 Architecture: amd64
-Description: AbyssianOS Default Repository
+Component: main
